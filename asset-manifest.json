@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//enesscollak.github.io/React-yapilacaklar-listesi/static/css/main.cf44f0ce.chunk.css",
+    "main.js": "/https//enesscollak.github.io/React-yapilacaklar-listesi/static/js/main.478eeea3.chunk.js",
+    "main.js.map": "/https//enesscollak.github.io/React-yapilacaklar-listesi/static/js/main.478eeea3.chunk.js.map",
+    "runtime-main.js": "/https//enesscollak.github.io/React-yapilacaklar-listesi/static/js/runtime-main.c302aaa5.js",
+    "runtime-main.js.map": "/https//enesscollak.github.io/React-yapilacaklar-listesi/static/js/runtime-main.c302aaa5.js.map",
+    "static/js/2.5662d457.chunk.js": "/https//enesscollak.github.io/React-yapilacaklar-listesi/static/js/2.5662d457.chunk.js",
+    "static/js/2.5662d457.chunk.js.map": "/https//enesscollak.github.io/React-yapilacaklar-listesi/static/js/2.5662d457.chunk.js.map",
+    "index.html": "/https//enesscollak.github.io/React-yapilacaklar-listesi/index.html",
+    "precache-manifest.66d8259205e763909f9cc79958fce253.js": "/https//enesscollak.github.io/React-yapilacaklar-listesi/precache-manifest.66d8259205e763909f9cc79958fce253.js",
+    "service-worker.js": "/https//enesscollak.github.io/React-yapilacaklar-listesi/service-worker.js",
+    "static/css/main.cf44f0ce.chunk.css.map": "/https//enesscollak.github.io/React-yapilacaklar-listesi/static/css/main.cf44f0ce.chunk.css.map",
+    "static/js/2.5662d457.chunk.js.LICENSE.txt": "/https//enesscollak.github.io/React-yapilacaklar-listesi/static/js/2.5662d457.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c302aaa5.js",
+    "static/js/2.5662d457.chunk.js",
+    "static/css/main.cf44f0ce.chunk.css",
+    "static/js/main.478eeea3.chunk.js"
+  ]
+}
